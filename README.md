@@ -4,7 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HungLyonLuudepythoin&theme=vue-dark&show_icons=true&hide_border=false&count_private=true" height="150" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HungLyonLuudepythoin&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false" height="150" alt="Languages graph" />
+  <img src="![HungLyonLuudepythoin's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HungLyonLuudepythoin&theme=vue-dark&show_icons=true&hide_border=false&layout=compact)" height="150" alt="Languages graph" />
 </div>
 
 ###
