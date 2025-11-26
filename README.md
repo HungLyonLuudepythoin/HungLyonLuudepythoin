@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Luu Vinh Hung and I'm a university student from Ho Chi Minh City, Viet Nam.</h2>
+<h2 align="left">Hi 👋! My name is Luu Vinh Hung and I'm an university student from Ho Chi Minh City, Viet Nam.</h2>
 
 ###
 
